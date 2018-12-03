@@ -1,0 +1,125 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:j.0="http://www.w3.org/ns/dcat#">
+  <rdf:Description rdf:about="http://mynamespace/news/#document9">
+    <dc:title>China's 40 years of economic reform that opened the country up and turned it into a superpower</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#talk.politics.mideast"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document28">
+    <dc:title>Xi arrives in Philippines for state visit</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#talk.politics.guns"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document5">
+    <dc:title>China launches twin BeiDou navigation satellites</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#sci.med"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document16">
+    <dc:title>Low vaccine rates contributed to deadly flu season</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#sci.electronics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document18">
+    <dc:title>NASA chooses difficult landing site for next Mars rover</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#sci.med"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document7">
+    <dc:title>China urges seeking mutually acceptable solutions on issues with US</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#talk.politics.mideast"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document24">
+    <dc:title>Showdown at Renault France wants Carlos Ghosn out</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#talk.politics.mideast"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document12">
+    <dc:title>George HW Bush former US president dies</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#talk.politics.mideast"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document26">
+    <dc:title>"Vietnam</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#%20Russia%20discuss%20ways%20to%20boost%20cooperativeties&quot;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document14">
+    <dc:title>How Bobby Bones and partner Sharna Burgess pulled off the 'DWTS' Mirrorball Miracl</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#rec.sport.baseball"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document20">
+    <dc:title>New rumors Galaxy S10 colors 5G variant launch and cheaper model details</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#sci.med"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document30">
+    <dc:title>Your Chromecast can now sync and stream audio along with Google Home speakers</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#sci.crypt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document22">
+    <dc:title>Rock fishers could be the real winners of student's prized idea of sending a text if they're swept from rocks</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#sci.med"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document10">
+    <dc:title>Earthquakes in Alaska buckle roads and trigger tsunami warning</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#soc.religion.christian"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document2">
+    <dc:title>Around the NBA skepticism over whether Wizards would actually trade John Wall or Bradley Beal</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#rec.sport.baseball"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document4">
+    <dc:title>Carbon sink may turn into carbon source due to climate change study</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#sci.med"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document6">
+    <dc:title>China to ease tax burdens for private enterprises</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#talk.politics.mideast"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document17">
+    <dc:title>Mohamed Noor could face upgraded murder charge over fatal shooting of Justine Damond Ruszczyk</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#soc.religion.christian"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document27">
+    <dc:title>"When the political going gets tough</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#%20blame%20sexism&quot;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document19">
+    <dc:title>NASA selects ancient crater as next Mars landing site</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#sci.med"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document8">
+    <dc:title>China urges US to stop wagging finger at others</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#talk.politics.guns"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document29">
+    <dc:title>Yankees Acquire James Paxton</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#rec.motorcycles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document13">
+    <dc:title>Germany held 2-2 by Netherlands in UEFA Nations League</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#rec.sport.baseball"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document23">
+    <dc:title>Scientists stuffed balloons into dead wombats to learn why they poop cubes</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#sci.electronics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document15">
+    <dc:title>Jeff Horn eyeing multiple weight divisions big fights at home after 96-second win over Anthony Mundine</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#soc.religion.christian"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document25">
+    <dc:title>These atomic clocks are so precise they can measure the distortion of space-time</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#sci.med"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document11">
+    <dc:title>Former Fremantle Dockers AFL player Craig Moller set to represent Australia in basketball</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#rec.sport.baseball"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document21">
+    <dc:title>New York City subway and bus services have entered 'death spiral' experts say</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#talk.politics.mideast"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document1">
+    <dc:title>Alibaba's Singles' Day sales hits new record of 200 billion yuan</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#sci.med"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mynamespace/news/#document3">
+    <dc:title>Australia's Boomers beat Iran to qualify for basketball's FIBA World Cup</dc:title>
+    <j.0:theme rdf:resource="http://mynamespace/news/#rec.sport.baseball"/>
+  </rdf:Description>
+</rdf:RDF>
