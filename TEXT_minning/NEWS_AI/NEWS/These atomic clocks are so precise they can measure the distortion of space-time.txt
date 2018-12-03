@@ -1,0 +1,153 @@
+These atomic clocks are so precise they can measure the distortion of space-time
+Share
+ Share on Facebook
+ Share on Twitter
+Print
+Mail
+Other share options
+ABC Science
+By science reporter Belinda Smith
+Posted Wednesday at 20:06
+Lasers shining on a clock in a lab.
+Atomic clocks like this ytterbium lattice atomic clock won't fit on your wrist. They require many different lasers and tend to take up a whole room. (Supplied: N. Phillips/ NIST)
+These clocks are so accurate they'd lose just half a second if they lasted the age of the universe. That's 14 billion years.
+
+Key points:
+The most accurate clocks in the world are atomic clocks, which use lasers and electrons to set their "ticking" rate
+A new pair of ultra-precise atomic clocks based on the element ytterbium have record-breaking stability and synchronicity
+By measuring space-time distortion, atomic clocks like these could help explore the earth's interior and detect dark matter
+But they won't be used to keep the trains running on time. The clocks' exquisite precision, outlined in Nature today, means they can measure how space-time distorts under gravity forces.
+
+Eventually, astrophysicists could enlist their help to detect mysterious dark matter.
+
+More immediately, the clocks could tell us what's going on inside the earth by precisely mapping our planet's bumps and lumps ！ if the clocks are shrunk, that is.
+
+Study co-author Will McGrew, a PhD student at the National Institute of Standards and Technology in the US, said the clocks' "ticking" is produced by oscillations of radiation emitted when electrons in ytterbium atoms are excited by lasers.
+
+It turns out they tick, in almost perfect synchronicity, 500 trillion times a second.
+
+"Measuring time and frequency with such an incredible accuracy provides a really powerful lens to view the natural world," Mr McGrew said.
+
+Atomic time 101
+Measuring time was based on astronomy. For instance, the length of a day was determined by one spin of the Earth on its axis.
+
+But astronomical phenomena tend to slow down or speed up.
+
+Our days are lengthening, by an extra 1.7 milliseconds each century, thanks to our gravitational tango with the moon.
+
+So while astronomical time might do for timetabling and such, science demands precision.
+
+And this is where atomic time shines.
+
+Rather than looking to the heavens, this form of time-keeping drills into the waves of radiation shrugged off by atoms when they're bathed in laser light.
+
+What makes atomic clocks 'tick'?
+A second is defined by the movement of electrons in a caesium-133 atom, which comprises a nucleus ！ containing 55 protons and 78 neutrons ！ surrounded by 55 electrons
+As electrons whiz around the nucleus, they occupy different orbits or "energy levels"
+Electrons can "jump" between levels when they absorb or release a specific amount of energy
+The energy emitted each time an electron makes a particular jump is always the same, and is in the form of microwaves
+Those microwaves have a particular frequency (the number of full waves completed each second) which can be measured as the atom's "ticking" rate
+Caesium-133 "ticks" 9,192,631,770 times every second
+They sound super futuristic, but atomic clocks have been around for more than 60 years.
+
+The first atomic clock that was accurate enough to be used to set the time was built in 1955 at the UK's National Physical Laboratory.
+
+It was accurate to a second in 300 years.
+
+Some 12 years later, the caesium atomic clock became the international time standard, and over time, atomic clocks became far more accurate.
+
+Modern atomic clocks which use strontium or ytterbium instead of caesium lose one second every 300 million years or so.
+
+More than time-keepers
+Atomic clocks' precision means they've tested Albert Einstein's general theory of relativity, which predicted that time runs faster or slower under the influence of different gravitational forces.
+
+In other words, a clock placed on a satellite orbiting Earth, which experiences higher "gravity potential", will tick faster than a clock at sea level.
+
+And there are already atomic clocks whizzing around the Earth on satellites that take advantage of this time dilation effect.
+
+We wouldn't have the global positioning system, or GPS, without them.
+
+Another use of satellite-mounted atomic clocks is to accurately map Earth's size, shape, orientation in space and mass distribution, collectively called "geodesy".
+
+Satellite geodesy usually involves timing how long light takes to make the trip between distant points, such as shining a laser up to a satellite and timing how long it takes for it to bounce back to a receiver on Earth.
+
+GPS satellites diagram
+Where would we be without a constellation of GPS satellites, most containing caesium atomic clocks, surrounding our planet? (Supplied: NOAA)
+GPS geodesy is accurate to around a centimetre, said Matt King, who uses satellite geodesy at the University of Tasmania and was not involved with the study.
+
+But clocks with a higher "tick" rate ！ that is, higher frequency ！ wouldn't have to use light at all. They could use the relativistic effects of gravity.
+
+This is what Mr McGrew and his colleagues wanted to achieve with their atomic clock.
+
+Instead of caesium, they used ytterbium. The radiation waves emitted by ytterbium atoms oscillate nearly five orders of magnitude faster than those from caesium atoms.
+
+In their paper, the team showed that the clocks were exceptionally stable ！ losing or gaining time almost imperceptibly ！ ticking almost perfectly in sync.
+
+So by comparing the ticking difference between two ytterbium clocks placed on separate continents, a person could feasibly measure the height difference between the clocks to under a centimetre.
+
+Harnessing the precision of ultra-sensitive atomic clocks would be like having "a telescope looking within", Professor King said.
+
+"Let's say you have an earthquake," he said.
+
+"The Earth changes shape at the time of the earthquake, but it continues to change shape for months and years ！ even decades ！ afterwards.
+
+"If you can measure that really precisely, you can learn about fundamentals about the interior of the earth, like its viscosity or runniness."
+
+How the Earth bounces back when glaciers melt or sinks when groundwater's pumped out, too, could be tracked with atomic clocks.
+
+And seeing how the ground around a volcano lifts and subsides, even on a sub-centimetre scale, could tell volcanologists how magma is moving around below, Professor King added.
+
+"Combine that with seismology, and you get a real picture of what's happening on the inside."
+
+A man working in a lab surrounded by wires
+Project leader Andrew Ludlow with laser systems used in both clocks visible in the foreground, and one clock's main apparatus behind him. (Supplied: J. Burrus/ NIST)
+Big applications, compact clock
+So what's stopping atomic clocks being wheeled out to volcanic and earthquake-risky places around the world?
+
+Simply, the ytterbium clocks are big to move.
+
+"[The clocks] basically take up a fairly large laboratory," Mr McGrew said.
+
+This is because they need a bunch of large lasers to work.
+
+A couple of lasers cool the ytterbium atoms to a fraction over absolute zero (-273 degrees Celsius), while others hold the chilled atoms in place.
+
+Mr McGrew and his colleagues have already started work on shrinking the systems.
+
+Professor King is optimistic that ultra-precise atomic clocks will one day be compact enough to be used on Earth as well in space.
+
+"In the early days of GPS, in the 1980s, you had to carry around a receiver in the boot of your car," he said.
+
+"Computers used to fill whole rooms as well.
+
+"We might be 20 years away, it might be sooner, but if these [ytterbium clocks] can be miniaturised and if the precision keeps on increasing, then there's no shortage of applications."
+
+The weird and wonderful
+Down the track, atomic clocks could be used for experiments that involve measuring the tiniest distortions in space-time, like the incredibly subtle stretching and squashing of matter caused by a gravitational wave.
+
+Take dark matter, for instance. Astrophysicists know dark matter is out there, and that it forms around a quarter of all the mass and energy in the universe.
+
+But its "dark" nature ！ that it doesn't seem to reflect, absorb or emit radiation ！ means it is very difficult to detect.
+
+The kilogram is about to change forever
+
+ kilogram teaser image
+It's set to be redefined, heralding a new era of measurement
+
+One model of dark matter suggests it might interact with ordinary matter by changing the fundamental constants of nature, Mr McGrew said.
+
+And this is where atomic clocks might help astrophysicists learn a little about the elusive stuff.
+
+"Say there's a big dark matter object that passes through a laboratory that has an ytterbium clock and a strontium clock," Mr McGrew said.
+
+"[The dark matter] would affect ytterbium by some factor, and then strontium by some other factor.
+
+"By measuring the difference between the two clocks, you could detect the dark matter object's presence.
+
+"These are extremely subtle effects, but when you can make measurements with 18 digits of accuracy, you could detect them."
+
+And, of course, there are purposes we've not yet dreamed of.
+
+"The people who first made atomic clocks didn't know they were building a GPS device," Mr McGrew said.
+
+"I think there's something similar to be said about atomic clocks ！ that their most salient, most important applications haven't been thought of yet."

@@ -1,0 +1,35 @@
+Your Chromecast can now sync and stream audio along with Google Home speakers
+Chromecast and speakers Google
+
+Abhimanyu Ghoshal
+STORY BY
+Abhimanyu Ghoshal
+74
+SHARES
+Google¡¯s got some good news for folks who want to string their speakers together for a better aural experience: if you¡¯ve got audio playing on a Google Home speaker, you can now sync that up with anything connected to your Chromecast (like a TV or other speakers).
+
+That means you can have your favorite podcast or album playing in your bedroom ¨C where your Google Home speaker sits on the nightstand ¨C as well as on the TV in your living room. In other words, Chromecasts can now be added to speaker groups just like actual speakers ¨C and it works with all generations of this dongle.
+
+I¡¯m pumped for this, because I¡¯ve got a decent-sounding Home speaker, and a Chromecast plugged into my TV (which is in turn connected to this soundbar), and I¡¯ve been dreaming of having them play nice together. It doesn¡¯t make sense for me to add another smart speaker to my small apartment, so this could be a great way to set up multi-room audio with the gadgets I already own.
+
+You'll need to join the Preview Program (in Settings, shown on the right) before you can add a Chromecast to a speaker group (left)
+You¡¯ll need to join the Preview Program (in Settings, shown on the right) before you can add a Chromecast to a speaker group (left)
+I say ¡®could be¡¯ because I haven¡¯t been able to test it yet. As XDA Developers noted, you¡¯ll need to join the Preview program on your Chromecast to try this feature, and it hasn¡¯t yet rolled out to my device. However, it should become available soon, and I¡¯ll update this post with my experience once I¡¯ve had a go.
+
+You can join the Preview program by following these steps:
+
+Fire up the Google Home app on your Android or iOS device.
+Tap on the Chromecast that¡¯s connected to your Wi-Fi network, and then tap the Settings button at the top right corner.
+Scroll down to the Preview Program section, and opt in by following the on-screen instructions.
+If you can¡¯t spot it, it¡¯s because Google isn¡¯t accepting new members in your region at the moment; you¡¯ll need to check back later to see if you can get in.
+You might also need to reboot your Chromecast before the option becomes available.
+Next, you¡¯ll need to add your Chromecast to a speaker group in the Google Home app, along with the other speakers you want to sync with:
+
+Launch the Google home app.
+Tap Add > Create speaker group, and then tap on each device you want to sync (be sure to include your Chromecast).
+Give your group a name (like ¡®My place¡¯ or ¡®2nd floor¡¯) and tap Save.
+Once you¡¯re all set up, try playing some music, audiobooks, or podcasts through your Google Home speaker. You should have audio playing through your Chromecast-connected devices as well as your speaker.
+
+VentureBeat noted that this feature will soon support Assistant-enabled smart displays like Google¡¯s own Home Hub and the LG Xboom WK9 in the coming weeks.
+
+Let us know if the feature works for you.
